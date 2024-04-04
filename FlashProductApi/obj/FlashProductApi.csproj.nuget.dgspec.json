@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dante\\source\\repos\\FlashProductApi\\FlashProductApi\\FlashProductApi.csproj": {}
+    "C:\\Users\\Dante\\source\\repos\\dante127\\FlashProducts\\FlashProductApi\\FlashProductApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dante\\source\\repos\\FlashProductApi\\FlashProductApi\\FlashProductApi.csproj": {
+    "C:\\Users\\Dante\\source\\repos\\dante127\\FlashProducts\\FlashProductApi\\FlashProductApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dante\\source\\repos\\FlashProductApi\\FlashProductApi\\FlashProductApi.csproj",
+        "projectUniqueName": "C:\\Users\\Dante\\source\\repos\\dante127\\FlashProducts\\FlashProductApi\\FlashProductApi.csproj",
         "projectName": "FlashProductApi",
-        "projectPath": "C:\\Users\\Dante\\source\\repos\\FlashProductApi\\FlashProductApi\\FlashProductApi.csproj",
+        "projectPath": "C:\\Users\\Dante\\source\\repos\\dante127\\FlashProducts\\FlashProductApi\\FlashProductApi.csproj",
         "packagesPath": "C:\\Users\\Dante\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dante\\source\\repos\\FlashProductApi\\FlashProductApi\\obj\\",
+        "outputPath": "C:\\Users\\Dante\\source\\repos\\dante127\\FlashProducts\\FlashProductApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
